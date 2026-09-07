@@ -8,7 +8,7 @@
 
 ### 👤 Sobre mim
 - 🇧🇷 Brasileiro  
-- 🎂 12 anos  
+- 🎂 20 anos  
 - 🎓 Graduando em **Sistemas para Internet**  
 - 💼 Técnico em Informática  
 - 💡 Apaixonado por desenvolvimento web, mobile e tecnologia
